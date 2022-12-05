@@ -32,9 +32,9 @@
 |[字节跳动是如何落地微前端的](https://mp.weixin.qq.com/s/VtF1ZjR72PjfbcRjWZjRfg)|2021-10-26|
 |[从场景倒推，在字节我们要什么样的微前端体系](https://mp.weixin.qq.com/s/pTjaje1LUQ2K6VnfsM2eSg)|2021-07-19|
 |[探索微前端的场景极限](https://mp.weixin.qq.com/s/FE3jsrqHrLWIjdEqaetoiA)| 2021-03-26|
+|[微前端在小米 CRM 系统的实践](https://mp.weixin.qq.com/s/Q4T_UgMIYX1Iu8jUXtPr_w)|2020-04-28|
 |[微前端在美团外卖的实践](https://juejin.cn/post/6844904073972432903)|2020-02-27|
 |[字节跳动的微前端沙盒实践](https://juejin.cn/post/6844904066225537037)|2020-02-17|
-|[微前端在小米 CRM 系统的实践](https://mp.weixin.qq.com/s/Q4T_UgMIYX1Iu8jUXtPr_w)|2020-04-28|
 |[爱奇艺号微前端架构实践](https://mp.weixin.qq.com/s/MgZGuthSv49qXWr_YBhyeQ)|2020-02-14|
 |[网易严选企业级微前端解决方案与落地实践](https://mp.weixin.qq.com/s/x2N-Y5xZV-XbrqxDT_wLKA)| 2019-12-13|
 |[每日优鲜供应链前端团队微前端改造](https://juejin.cn/post/6844903943873675271)|2019-09-17|
